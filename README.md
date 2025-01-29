@@ -17,18 +17,18 @@ This project demonstrates real-time holistic landmark detection using MediaPipe 
 
 Hardware Requirements:
 
-1.Webcam-enabled computer
-2.Minimum system specifications:
-3.Processor: Intel i5 or equivalent
-4.RAM: 8GB
-5.Graphics: Integrated GPU
+1. Webcam-enabled computer
+2. Minimum system specifications:
+3. Processor: Intel i5 or equivalent
+4. RAM: 8GB
+5. Graphics: Integrated GPU
 
 Software Requirements:
 
-Python 3.7+
-OpenCV
-MediaPipe
-NumPy
+1. Python 3.7+
+2. OpenCV
+3. MediaPipe
+4. NumPy
 
 🌟 Show Your Support:
 

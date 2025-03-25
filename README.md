@@ -9,8 +9,11 @@ This project demonstrates real-time holistic landmark detection using MediaPipe 
 ✨ Features:
 
 🔍 Real-time facial landmark detection
+
 👐 Hand landmark tracking (left and right)
+
 📊 Frames per second (FPS) display
+
 💻 Live camera feed processing
 
 🛠 Prerequisites:
